@@ -1,0 +1,16 @@
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# macOS system files
+.DS_Store
+
+# Personal documents that should never go in the repo
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+
+# Local environment files
+.env
+*.log

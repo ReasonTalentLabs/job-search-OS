@@ -1,0 +1,10 @@
+{
+  "name": "ai-job-search",
+  "description": "An AI-powered job search operating system. Covers the full search lifecycle: career history extraction, achievement bank, resume building, per-application tailoring, strategy learning, and interview simulation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Chris Coultas"
+  },
+  "homepage": "https://github.com/ReasonTalentLabs/ai-job-search-system",
+  "repository": "https://github.com/ReasonTalentLabs/ai-job-search-system"
+}
