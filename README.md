@@ -36,12 +36,9 @@ Eight skills that work together as an end-to-end system:
 This repo is structured as a Claude plugin. Install it directly from Claude:
 
 ```
-/plugin marketplace add [YOUR_GITHUB_USERNAME]/ai-job-search-system
-/plugin install ai-job-search@[YOUR_GITHUB_USERNAME]/ai-job-search-system
+/plugin marketplace add ReasonTalentLabs/job-search-OS
+/plugin install Job-Search-OS@[ReasonTalentLabs]/job-search-OS
 ```
-
-> **Note:** Replace `[YOUR_GITHUB_USERNAME]` with the actual GitHub username where you've
-> published this repo.
 
 Once installed, all eight skills are available automatically. Claude will invoke them
 based on context — no slash commands needed for most workflows.
@@ -109,7 +106,7 @@ skill will take over and walk you through everything.
 
 If you prefer to run steps manually:
 
-**Step A — Career Interview** (60–90 minutes)
+**Step A — Career Interview** (30-60 minutes)
 
 > *"Run the career interview."*
 
@@ -300,7 +297,8 @@ Re-run `career-interview` (choose "update" when prompted), then re-run `achievem
 
 ## Contributing
 
-Built by a senior HR executive during an active VP-level job search. If you use it
+Built by Chris Coultas, PhD, Founder and Principal at Reason Talent (www.reasontalent.com)
+and a senior HR executive during an active VP-level job search. If you use it
 and build improvements — new skills, better prompts, workflow refinements — pull
 requests are welcome.
 
