@@ -1,4 +1,4 @@
-# AI Job Search System
+# Job Search OS
 
 A structured, skill-based AI workflow for serious job seekers — built as a plugin for Claude (Anthropic's AI) via the Cowork desktop app.
 
