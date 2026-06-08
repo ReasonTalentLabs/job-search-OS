@@ -14,6 +14,7 @@ practical job-search language: what makes you distinctive, how you lead, how to 
 yourself authentically, and what role types will play to your natural strengths.
 
 **Supported assessments (and others):**
+- DRiV (take it free at https://reasontestdriv.driv.lwfinsights.com/driv/)
 - CliftonStrengths / StrengthsFinder
 - Hogan (HPI, HDS, MVPI)
 - DISC
